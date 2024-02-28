@@ -39,3 +39,6 @@ I would add one mathematical idea not explained in the papers, that helps us gen
 * https://arxiv.org/abs/2205.10838 (Grad-CAM++ is Equivalent to Grad-CAM With Positive Gradients): Clear Cut Mathematics and beautifully explained.
 * https://christophm.github.io/interpretable-ml-book/pixel-attribution.html (An excellent resource to learn explainable machine learning models)
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8321083/ (Explainable Deep Learning Models in Medical Image Analysis): This gives a table of different approaches, with the basic methodology involved.
+* a perfect paper with a theoretical approach to visualization: https://arxiv.org/abs/2008.02312 (Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs)
+* Axiomatic Attribution for Deep Networks: The hypotheses for attribution/importance of a pixel are given in this paper with interesting counterexamples. https://arxiv.org/pdf/1703.01365.pdf
+
